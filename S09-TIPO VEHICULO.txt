@@ -1,0 +1,10 @@
+id_TipoVehiculo;Des_TipoVehiculo
+1;Sin Categoria
+2;Otro
+3;Bus
+4;Liger
+5;Ligero
+6;Moto
+7;Peaton
+8;Pesado
+9;Bici
