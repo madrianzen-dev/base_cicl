@@ -7,4 +7,4 @@ id_TipoVehiculo;Des_TipoVehiculo
 6;Moto
 7;Peaton
 8;Pesado
-9;Bicicletita
+9;Bicicleta
