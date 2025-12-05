@@ -1,6 +1,6 @@
 id_TipoVehiculo;Des_TipoVehiculo
 1;Sin Categoria
-2;Otro
+2;Otro-Diferente
 3;Bus
 4;Liger
 5;Ligero
