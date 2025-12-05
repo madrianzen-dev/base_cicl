@@ -1,5 +1,5 @@
 id_TipoVehiculo;Des_TipoVehiculo
-1;Sin Categoria
+1;Sin Categoria Alguna
 2;Otro-Diferente
 3;Bus
 4;Liger
@@ -8,3 +8,4 @@ id_TipoVehiculo;Des_TipoVehiculo
 7;Peaton
 8;Pesado
 9;Bicicleta
+
